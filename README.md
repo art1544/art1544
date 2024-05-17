@@ -10,9 +10,7 @@
 
 Olá! Eu sou Arthur Miranda Pacher, um entusiasta de tecnologia e desenvolvedor em constante evolução. Atualmente, sou estagiário na DTI Digital, atuando na tribo Duckbillis (99 - Duckbills Comercial). Sou apaixonado por resolver problemas técnicos e sempre busco novas oportunidades para aprender e me desenvolver.
 
-A tualmente estou cursando Engenharia de Software na PUC MG e possuo formação em Eletrotécnica pelo CEFET MG.
-
-Tenho grande interesse em aprender e me desenvolver, demonstrando adaptabilidade e comprometimento. Com experiência em aspectos técnicos e interpessoais, almejo contribuir efetivamente em projetos desafiadores, adquirindo experiência e crescendo juntamente com a empresa.
+Atualmente estou cursando Engenharia de Software na PUC MG e possuo formação em Eletrotécnica pelo CEFET MG. Tenho grande interesse em aprender e me desenvolver, demonstrando adaptabilidade e comprometimento. Com experiência em aspectos técnicos e interpessoais, almejo contribuir efetivamente em projetos desafiadores, adquirindo experiência e crescendo juntamente com a empresa.
 
 - 🌱 **Em constante aprendizado**: Atualmente focado em aprimorar minhas habilidades, principalmente em **Java** e **Spring Boot**.
 - 🎵 **Interesses pessoais**: Nos meus tempos vagos, gosto de escutar música, estudar novas coisas, jogar e me divertir com os amigos.
