@@ -15,7 +15,7 @@ Estou sempre aberto a novas oportunidades e colaborações para aprimorar minhas
 - 🌱 **Em constante aprendizado**: Atualmente focado em aprimorar minhas habilidades em **Java** e **Spring Boot**.
 - 🎵 **Interesses pessoais**: Nos meus tempos vagos, gosto de escutar música, estudar novas coisas, jogar e me divertir com os amigos.
 - 👯 **Aberto a colaborações**: Adoro trabalhar em projetos colaborativos e desafiadores.
-- ⚡ **Curiosidades**: Sou fascinado por automação industrial e adoro entender como as coisas funcionam por dentro.
+- ⚡ **Curiosidades**: Sou fascinado por tecnologia e adoro entender como as coisas funcionam por dentro.
 
 ## 🚀 Minhas Habilidades
 
