@@ -8,7 +8,7 @@
 
 Sou um estagiário na empresa DTI como desenvolvedor, atuando na tribo Duckbillis (99 - Duckbills Comercial). Anteriormente, estagiei na empresa AIKO, onde fiz parte do setor de produção de hardware para gestão de frota e do time de suporte técnico, com ênfase em aplicações florestais. Possuo formação em eletrotécnica pelo CEFET MG e atualmente estou cursando Engenharia de Software na PUC MG.
 
-Minha experiência se concentra no desenvolvimento de hardware para soluções de gestão de frota, especialmente na indústria florestal. Estou sempre aberto a novas oportunidades e colaborações para aprimorar minhas habilidades e crescer profissionalmente. Sinta-se à vontade para se conectar comigo se desejar discutir possíveis parcerias ou compartilhar experiências.
+Estou sempre aberto a novas oportunidades e colaborações para aprimorar minhas habilidades e crescer profissionalmente. Sinta-se à vontade para se conectar comigo se desejar discutir possíveis parcerias ou compartilhar experiências.
 
 Com entusiasmo e dedicação, busco oportunidades para aprimorar minhas habilidades na área de TI. Tenho grande interesse em aprender e me desenvolver, demonstrando adaptabilidade e comprometimento. Com experiência em aspectos técnicos e interpessoais, almejo contribuir efetivamente em projetos desafiadores, adquirindo experiência e crescendo juntamente com a empresa.
 
