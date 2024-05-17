@@ -36,10 +36,9 @@ Atualmente estou cursando Engenharia de Software na PUC MG e possuo formação e
 ## 🌟 Projetos Destacados
 
 ### [PetShop Finder](https://github.com/art1544/PetshopFinder.git)
-#### Teste prático dti
 
 **Sobre o Projeto**:
-O PetShop Finder é uma aplicação web desenvolvida para o teste prático da dti digital e tem como objetivo ajudar o usuário a encontrar o melhor PetShop com base em critérios como preços e distância, focando no atendimento para cães de diferentes tamanhos. O sistema permite ao usuário inserir a data desejada para o serviço, o número de cães pequenos e grandes, e calcula qual PetShop oferece o melhor custo-benefício.
+O PetShop Finder é uma aplicação web que tem como objetivo ajudar o usuário a encontrar o melhor PetShop com base em critérios como preços e distância, focando no atendimento para cães de diferentes tamanhos. O sistema permite ao usuário inserir a data desejada para o serviço, o número de cães pequenos e grandes, e calcula qual PetShop oferece o melhor custo-benefício.
 
 **Tecnologias e Ferramentas Utilizadas**:
 - Spring Boot
