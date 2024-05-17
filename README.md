@@ -48,10 +48,32 @@ O PetShop Finder é uma aplicação web desenvolvida para o teste prático da dt
 - Spring Data JPA
 - Maven
 
+## 📊 Estatísticas do GitHub
+
+<div>
+  <a href="https://github.com/art1544">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=art1544&show_icons=true&theme=synthwave&include_all_commits=false&count_private=true&rank_icon=github"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=art1544&layout=compact&langs_count=10&theme=synthwave"/>                                                                                             
+</div>
+
+## 🛠️ Tecnologias e Ferramentas
+
+<div style= "display: inline_block"><br/>
+  <img align="center" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="30">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40">
+  <img align="center" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="30">
+  <img align="center" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="30">
+  <img align="center" alt="HTML 5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="30">
+  <img align="center" alt="CSS 3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="30">
+  <img align="center" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="30">
+</div>
+
 ## 📫 Como me encontrar
 
-- LinkedIn: [Arthur Miranda Pacher](https://www.linkedin.com/in/arthur-miranda-pacher-247b0725b/)
-- Email: [arthurmirandapacher@gmail.com](mailto:arthurmirandapacher@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-miranda-pacher-247b0725b/)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nvk.exe/)
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurmirandapacher@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/PrYAn92VYH)
 
 ---
 
