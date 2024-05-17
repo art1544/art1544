@@ -1,18 +1,20 @@
 # Olá, eu sou Arthur Miranda Pacher 👋
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-miranda-pacher-247b0725b/)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white)](mailto:arthurmirandapacher@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/art1544?label=Follow&style=social)](https://github.com/art1544)
+## 📫 Como me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-miranda-pacher-247b0725b/)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_mirandarthur/)
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurmirandapacher@gmail.com)
 
 ## Sobre mim
 
 Olá! Eu sou Arthur Miranda Pacher, um entusiasta de tecnologia e desenvolvedor em constante evolução. Atualmente, sou estagiário na DTI Digital, atuando na tribo Duckbillis (99 - Duckbills Comercial). Sou apaixonado por resolver problemas técnicos e sempre busco novas oportunidades para aprender e me desenvolver.
 
-Anteriormente, estagiei na empresa AIKO, onde fiz parte do setor de produção de hardware para gestão de frota e do time de suporte técnico, com ênfase em aplicações florestais. Possuo formação em Eletrotécnica pelo CEFET MG e atualmente estou cursando Engenharia de Software na PUC MG.
+A tualmente estou cursando Engenharia de Software na PUC MG e possuo formação em Eletrotécnica pelo CEFET MG.
 
-Estou sempre aberto a novas oportunidades e colaborações para aprimorar minhas habilidades e crescer profissionalmente. Com entusiasmo e dedicação, busco oportunidades para aprimorar minhas habilidades na área de TI. Tenho grande interesse em aprender e me desenvolver, demonstrando adaptabilidade e comprometimento. Com experiência em aspectos técnicos e interpessoais, almejo contribuir efetivamente em projetos desafiadores, adquirindo experiência e crescendo juntamente com a empresa.
+Tenho grande interesse em aprender e me desenvolver, demonstrando adaptabilidade e comprometimento. Com experiência em aspectos técnicos e interpessoais, almejo contribuir efetivamente em projetos desafiadores, adquirindo experiência e crescendo juntamente com a empresa.
 
-- 🌱 **Em constante aprendizado**: Atualmente focado em aprimorar minhas habilidades em **Java** e **Spring Boot**.
+- 🌱 **Em constante aprendizado**: Atualmente focado em aprimorar minhas habilidades, principalmente em **Java** e **Spring Boot**.
 - 🎵 **Interesses pessoais**: Nos meus tempos vagos, gosto de escutar música, estudar novas coisas, jogar e me divertir com os amigos.
 - 👯 **Aberto a colaborações**: Adoro trabalhar em projetos colaborativos e desafiadores.
 - ⚡ **Curiosidades**: Sou fascinado por tecnologia e adoro entender como as coisas funcionam por dentro.
@@ -52,8 +54,7 @@ O PetShop Finder é uma aplicação web desenvolvida para o teste prático da dt
 
 <div>
   <a href="https://github.com/art1544">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=art1544&show_icons=true&theme=synthwave&include_all_commits=false&count_private=true&rank_icon=github"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=art1544&layout=compact&langs_count=10&theme=synthwave"/>                                                                                             
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=art1544&show_icons=true&theme=synthwave&include_all_commits=false&count_private=true&rank_icon=github"/>                                                                                         
 </div>
 
 ## 🛠️ Tecnologias e Ferramentas
@@ -67,13 +68,6 @@ O PetShop Finder é uma aplicação web desenvolvida para o teste prático da dt
   <img align="center" alt="CSS 3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="30">
   <img align="center" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="30">
 </div>
-
-## 📫 Como me encontrar
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-miranda-pacher-247b0725b/)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nvk.exe/)
-[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurmirandapacher@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/PrYAn92VYH)
 
 ---
 
