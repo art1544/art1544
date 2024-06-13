@@ -8,9 +8,7 @@
 
 ## Sobre mim
 
-Olá! Eu sou Arthur Miranda Pacher, um entusiasta de tecnologia e desenvolvedor em constante evolução. Atualmente, sou estagiário na DTI Digital, atuando na tribo Duckbillis (99 - Duckbills Comercial). Sou apaixonado por resolver problemas técnicos e sempre busco novas oportunidades para aprender e me desenvolver.
-
-Atualmente estou cursando Engenharia de Software na PUC MG e possuo formação em Eletrotécnica pelo CEFET MG. Tenho grande interesse em aprender e me desenvolver, demonstrando adaptabilidade e comprometimento. Com experiência em aspectos técnicos e interpessoais, almejo contribuir efetivamente em projetos desafiadores, adquirindo experiência e crescendo juntamente com a empresa.
+Olá! Eu sou Arthur Miranda Pacher, um entusiasta de tecnologia e desenvolvedor em constante evolução. Atualmente, sou estagiário na DTI Digital, atuando na tribo Duckbillis (99 - Duckbills Comercial). Atualmente estou cursando Engenharia de Software na PUC MG e possuo formação em Eletrotécnica pelo CEFET MG.
 
 - 🌱 **Em constante aprendizado**: Atualmente focado em aprimorar minhas habilidades, principalmente em **Java** e **Spring Boot**.
 - 🎵 **Interesses pessoais**: Nos meus tempos vagos, gosto de escutar música, estudar novas coisas, jogar e me divertir com os amigos.
@@ -22,8 +20,6 @@ Atualmente estou cursando Engenharia de Software na PUC MG e possuo formação e
 - **Linguagens de Programação**: Java, C, HTML, CSS, JavaScript, Matlab, Ladder
 - **Frameworks e Bibliotecas**: Spring Boot, Thymeleaf, Bootstrap
 - **Outras Tecnologias**: PLC Ladder, Linguagem de Blocos, AutoCAD, Manutenção Eletrônica, Conhecimento em Elétrica
-- **Banco de Dados**: H2 Database, MySQL
-- **Ferramentas**: Microsoft Office (Word, Excel, PowerPoint)
 - **Habilidades Adicionais**: 
   - Elaboração e análise de projetos elétricos no software AutoCAD
   - Planejamento, execução e manutenção de instalações elétricas
@@ -32,20 +28,6 @@ Atualmente estou cursando Engenharia de Software na PUC MG e possuo formação e
   - Teste de qualidade em aparelhos smartphones e eletroeletrônicos
   - Manutenção de Hardware e Software em notebooks e desktops
   - Controle e automação industrial
-
-## 🌟 Projetos Destacados
-
-### [PetShop Finder](https://github.com/art1544/PetshopFinder.git)
-
-**Sobre o Projeto**:
-O PetShop Finder é uma aplicação web que tem como objetivo ajudar o usuário a encontrar o melhor PetShop com base em critérios como preços e distância, focando no atendimento para cães de diferentes tamanhos. O sistema permite ao usuário inserir a data desejada para o serviço, o número de cães pequenos e grandes, e calcula qual PetShop oferece o melhor custo-benefício.
-
-**Tecnologias e Ferramentas Utilizadas**:
-- Spring Boot
-- Thymeleaf
-- H2 Database
-- Spring Data JPA
-- Maven
 
 ## 📊 Estatísticas do GitHub
 
