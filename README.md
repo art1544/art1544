@@ -29,12 +29,6 @@ Engenheiro de Software com +2 anos de experiência e atuação como **Dev Lead**
 [![Ver currículo](https://img.shields.io/badge/Ver%20Curr%C3%ADculo-PDF-512BD4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/art1544/art1544/blob/main/Arthur_Miranda_Pacher_CV_2026.pdf)
 [![Baixar currículo](https://img.shields.io/badge/Baixar%20Curr%C3%ADculo-PDF-2496ED?style=for-the-badge&logo=download&logoColor=white)](https://github.com/art1544/art1544/raw/main/Arthur_Miranda_Pacher_CV_2026.pdf)
 
-## 📊 Estatísticas do GitHub
-
-[![Estatísticas de Arthur](https://github-readme-stats.vercel.app/api?username=art1544&show_icons=true&theme=github_dark&include_all_commits=false&count_private=true&rank_icon=github&cache_seconds=86400)](https://github.com/art1544)
-
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=art1544&layout=compact&theme=github_dark&langs_count=8&cache_seconds=86400)](https://github.com/art1544)
-
 ## 📫 Como me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-miranda-pacher)
