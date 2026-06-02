@@ -27,8 +27,8 @@ Engenheiro de Software com +2 anos de experiência e atuação como **Dev Lead**
 ## 📊 Estatísticas do GitHub
 
 <div>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=art1544&show_icons=true&theme=synthwave&include_all_commits=false&count_private=true&rank_icon=github"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=art1544&layout=compact&theme=synthwave&langs_count=8"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=art1544&show_icons=true&theme=github_dark&include_all_commits=false&count_private=true&rank_icon=github"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=art1544&layout=compact&theme=github_dark&langs_count=8"/>
 </div>
 
 ## 📫 Como me encontrar
